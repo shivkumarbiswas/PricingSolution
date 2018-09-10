@@ -1,0 +1,20 @@
+﻿[
+  {
+    "discountName": "2+1 pants", // Discount Name
+    "discountDescription": "Buy two pants, get one free", // Discount Description
+    "discountObjectProductId": "3", // On which product discount should be applied
+    "discountObjectProperty": "quantity", // what parameter should be used for applying discount i.e., quantity or total_price
+    "discountObjectComparison": "greater_than", // what comparison should be used i.e., greater_than, less_than, equals
+    "discountObjectTargetValue": "2", // target value which will be used while comparing
+    "discountedQuantity": "1" // the actual discount in terms of quantity, in this case 1 quantity will be available for free as discount. //Note: If discountObjectProperty is quantity, then only use this property.
+  },
+  {
+    "discountName": "25% off", // Discount Name
+    "discountDescription": "25% off when total price is greater than 500", // Discount Description
+    "discountObjectProductId": "3", // On which product discount should be applied
+    "discountObjectProperty": "total_price", // what parameter should be used for applying discount i.e., quantity or total_price
+    "discountObjectComparison": "greater_than", // what comparison should be used i.e., greater_than, less_than, equals
+    "discountObjectTargetValue": "500", // target value which will be used while comparing
+    "discountedAmountInPercentage": "25" // the actual discount in terms of percentage, in this case 25% of the total_price will be available as discount. //Note: If discountObjectProperty is total_price, then only use this property.
+  }
+]

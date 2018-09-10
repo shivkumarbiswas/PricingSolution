@@ -1,0 +1,23 @@
+﻿[
+  {
+    "description": "Shoes",
+    "name": "Shoes",
+    "price": 100,
+    "productId": 1,
+    "quantity": 1
+  },
+  {
+    "description": "Shirt",
+    "name": "Shirt",
+    "price": 200,
+    "productId": 2,
+    "quantity": 2
+  },
+  {
+    "description": "Pants",
+    "name": "Pants",
+    "price": 300,
+    "productId": 3,
+    "quantity": 3
+  }
+]

@@ -1,0 +1,10 @@
+C:\PricingSolution\PricingSolution\bin\Debug\PricingSolution.exe.config
+C:\PricingSolution\PricingSolution\bin\Debug\PricingSolution.exe
+C:\PricingSolution\PricingSolution\bin\Debug\PricingSolution.pdb
+C:\PricingSolution\PricingSolution\bin\Debug\Newtonsoft.Json.dll
+C:\PricingSolution\PricingSolution\bin\Debug\Newtonsoft.Json.xml
+C:\PricingSolution\PricingSolution\obj\Debug\PricingSolution.csprojAssemblyReference.cache
+C:\PricingSolution\PricingSolution\obj\Debug\PricingSolution.csproj.CoreCompileInputs.cache
+C:\PricingSolution\PricingSolution\obj\Debug\PricingSolution.csproj.CopyComplete
+C:\PricingSolution\PricingSolution\obj\Debug\PricingSolution.exe
+C:\PricingSolution\PricingSolution\obj\Debug\PricingSolution.pdb
